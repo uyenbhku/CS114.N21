@@ -1,0 +1,1 @@
+Đặt tên file là NSFW.json
